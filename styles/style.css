@@ -1,0 +1,43 @@
+html {
+  font-size: 10px;
+  font-family: "Tajawal", sans-serif;
+ }
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background color: "FFF"
+    padding: 0 20px 20px 20px;
+    border: 5px solid gray;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #9B9B9B;
+  text-shadow: 3px 3px 1px black;
+}
+
+h2 {
+  font-size: 20px;
+  text-align: center;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+#yt {
+    position: relative;
+    left: 550px;
+}
